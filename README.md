@@ -1,4 +1,4 @@
-# Volkswagen ID.3 CAN parameters version 1.0
+# Volkswagen MEB EV cars CAN UDS parameters version 1.0
 
 This file contains all the information for people to be able to extract live data from their VW MEB based cars like ID.3 ID.4, Enyaq etc and implement it in other tools like EVNotify, Leafspy, OVMS etc.
 
