@@ -9,9 +9,11 @@ Västerås, Sweden 2021-06-22
 NB. The use of this information on your car is strictly your own responsibilty, so don't hunt med down if something gets broken if you it. But rest assured, I use this to monitor my own ID.3 so I feel confident enough to use this.
 
 Differences between cars:
-
 The only know differences i have found yet is the number of HV battery cells, so the net capacity will decide how many cells there is in the pack.
 
+Tested on the following cars:
+VW ID.x cars and Skoda Enyaq
+Will probably also work on Seat Cupra Bravo and Audi Q4 e-tron.
 
 Version info:
 1.0 First released version
