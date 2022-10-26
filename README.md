@@ -26,4 +26,4 @@ Status:
 
 So its still work in progress.........
 
-If you need to contact me, do it on my IG account https://www.instagram.com/id.3life_sweden/
+If you need to contact me, do it on my IG account https://www.instagram.com/swedish_evangelist/
